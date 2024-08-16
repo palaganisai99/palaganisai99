@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @palaganisai99
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Analysis
-- 📫 How to reach me palaganisai1997@gmail.com
+- 🌱 I’m working as a Senior Data Analyst
+- 📫 How to reach me palaganisai99@gmail.com
 
 <!---
 palaganisai99/palaganisai99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
